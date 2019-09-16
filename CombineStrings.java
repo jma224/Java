@@ -1,5 +1,4 @@
-//Name: Jingyan Ma
-//McGill ID: 260783581
+//* Jingyan Ma *//
 import java.util.Arrays;
 public class Phrases{
   
