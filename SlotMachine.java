@@ -1,5 +1,4 @@
-
-//*Jingyan Ma*//
+//* Jingyan Ma *//
 public class SlotMachine{
    public static void main(String[] args){
      System.out.println("Welcome to Fun Casino!");
