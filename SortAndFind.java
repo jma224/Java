@@ -1,5 +1,4 @@
-//Student Name: Jingyan Ma
-//McGill ID: 260783581
+//* Jingyan Ma *//
 import java.util.Random;
 import java.util.Arrays;
 
