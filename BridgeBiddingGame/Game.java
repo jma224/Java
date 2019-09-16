@@ -1,5 +1,4 @@
-//Name: Jingyan Ma
-//McGill ID: 260783581
+//* Jingyan Ma *//
 public class Game {
 
     public static void main(String[] args){
